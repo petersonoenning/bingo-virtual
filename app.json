@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.petersonoenning.bingovirtual"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a80f070b-bf21-44a8-bad5-76da63de1e6e"
+      }
+    },
+    "owner": "petersonoenning"
   }
 }
