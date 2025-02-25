@@ -16,9 +16,10 @@ O **Bingo Virtual** é um aplicativo interativo desenvolvido em **React Native c
 
 ## 📸 Capturas de Tela
 
-=![image](https://github.com/user-attachments/assets/ecb2fe95-de57-486c-a404-65b95513301c)
-![image](https://github.com/user-attachments/assets/d1e97b23-d302-4057-8377-cac326cfdece)
-![image](https://github.com/user-attachments/assets/da82fef0-1f8f-4e62-8f1b-b28c0d504df9)
+![image](https://github.com/user-attachments/assets/e7932c26-caac-4004-b8b8-318b2eaca297)
+![image](https://github.com/user-attachments/assets/cc136830-e06a-44a5-8ac7-3510bc5c3a10)
+![image](https://github.com/user-attachments/assets/eabe7e37-fc00-45ce-a12d-aacf0c8a0de3)
+
 
 
 ---
@@ -51,6 +52,12 @@ Siga os passos abaixo para rodar o projeto localmente:
    ```sh
    npx expo start
    ```
+
+---
+
+## 📦 Instale o APK e jogue gratuitamente!
+
+https://expo.dev/artifacts/eas/eWM5NF428tFUxMAdffmfj9.apk
 
 ---
 
