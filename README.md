@@ -105,4 +105,4 @@ BINGO-VIRTUAL
 ```
 ---
 
-Desenvolvido com ❤️ por [Peterson Oenning](https://github.com/petersonoenning).
+Desenvolvido com ❤️ por [Peterson Oenning](https://github.com/petersonoenning) e [Ana Claudia](https://github.com/anaclauds).
